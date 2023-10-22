@@ -1,0 +1,2 @@
+main-class: ApplicationRunner
+class-path: out/
