@@ -21,4 +21,8 @@ public class Person {
         return age;
     }
 
+    private void privateMethod() {
+        // todo this logics for the method
+    }
+
 }
