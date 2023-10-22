@@ -28,4 +28,8 @@ public class Person {
     public void publicMethod() {
         // todo add logics
     }
+
+    protected void protectedMethod() {
+        // todo add logicks
+    }
 }
