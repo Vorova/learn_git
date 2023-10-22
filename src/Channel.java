@@ -1,4 +1,3 @@
-package com.vorova;
 
 public class Channel implements Runnable {
 
