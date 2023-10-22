@@ -22,7 +22,10 @@ public class Person {
     }
 
     private void privateMethod() {
-        // todo this logics for the method
+        // todo add logics
     }
 
+    public void publicMethod() {
+        // todo add logics
+    }
 }
